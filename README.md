@@ -37,7 +37,7 @@ This is a simple web application built with React and TypeScript for managing a 
 3.  **Start the development server:**
     
     ```bash
-    npm start
+    npm run dev
     ```
     
 4.  **Access the application:**  Open  `http://localhost:XXXX/`  in your web browser.
